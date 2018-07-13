@@ -1,1 +1,2 @@
 This is a file created directly on GitHub.
+So if I run the command 'git pull', this file will come up in my local repository, which means local repository will update by running this command. 
